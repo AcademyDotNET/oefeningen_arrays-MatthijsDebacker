@@ -31,9 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoetbalCoach", "VoetbalCoac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galgje", "Galgje\Galgje.csproj", "{7FF490B1-2DB2-43E9-95D1-C56542DCA0B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OndernemingsNummer", "OndernemingsNummer\OndernemingsNummer.csproj", "{6D581A34-0F84-4949-8AF2-E43F12D7C0A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OndernemingsNummer", "OndernemingsNummer\OndernemingsNummer.csproj", "{6D581A34-0F84-4949-8AF2-E43F12D7C0A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determinant", "Determinant\Determinant.csproj", "{C73E571D-4713-499B-82C2-69B7B270F323}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Determinant", "Determinant\Determinant.csproj", "{C73E571D-4713-499B-82C2-69B7B270F323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArrayViewer", "2DArrayViewer\2DArrayViewer.csproj", "{092B5A5E-38B3-45AE-A645-144637844D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplier", "MatrixMultiplier\MatrixMultiplier.csproj", "{D80EBDA0-2941-4651-811A-283CA7706600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{C73E571D-4713-499B-82C2-69B7B270F323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C73E571D-4713-499B-82C2-69B7B270F323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C73E571D-4713-499B-82C2-69B7B270F323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092B5A5E-38B3-45AE-A645-144637844D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092B5A5E-38B3-45AE-A645-144637844D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092B5A5E-38B3-45AE-A645-144637844D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092B5A5E-38B3-45AE-A645-144637844D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80EBDA0-2941-4651-811A-283CA7706600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80EBDA0-2941-4651-811A-283CA7706600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80EBDA0-2941-4651-811A-283CA7706600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80EBDA0-2941-4651-811A-283CA7706600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
